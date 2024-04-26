@@ -1,0 +1,20 @@
+
+Karakter.png
+size: 512, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Girl
+  rotate: false
+  xy: 292, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Girl_walk
+  rotate: false
+  xy: 2, 2
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
